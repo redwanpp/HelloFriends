@@ -11,11 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-<<<<<<< HEAD
-
-=======
->>>>>>> 5ff3a0e (fix frontend problem and design few things (login, logout))
-.env
 
 # Editor directories and files
 .vscode/*

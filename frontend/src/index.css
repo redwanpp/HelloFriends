@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -65,4 +66,16 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+>>>>>>> 5ff3a0e (fix frontend problem and design few things (login, logout))
 }
